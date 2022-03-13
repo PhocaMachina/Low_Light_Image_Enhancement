@@ -1,0 +1,2 @@
+computing gradient using a doubly blocked toeplitz matrix is quite costly on memory since the size of a doubly blocked toeplitz matrix for a m by n image
+is mn by mn （m^2*n^2）
