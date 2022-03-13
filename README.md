@@ -9,7 +9,7 @@ It's merely a modified implementation of the LIME paper as of Mar 14th 2022.
 The Utils directory contains all of the components of the enhancement framework.
 
 Todo:
-[] add detailed explanation for all of the files in LIME
-[] upload BM3D once finished
-[] add a deep learning based noise reduction module after BM3D
-[] add attention-map and noise map generation
+- add detailed explanation for all of the files in LIME
+- upload BM3D once finished
+- add a deep learning based noise reduction module after BM3D
+- add attention-map and noise map generation
